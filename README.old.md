@@ -1,1 +1,0 @@
-# react-store-data-test
